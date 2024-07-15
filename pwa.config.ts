@@ -27,5 +27,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.lawu22.com',
+  origin: 'undefined',
 } satisfies Config;
